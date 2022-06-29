@@ -1,1 +1,3 @@
-/HomeWorkJavaCore_2.4_Exceptions.iml
+*.iml
+/out/
+/.idea/
